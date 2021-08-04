@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammad-Neutrino
 - 👀 I’m interested in C++ and Python coding
 - 🌱 I’m currently learning how to work with CERN ROOT
-- 💞️ I’m looking to collaborate on Astroparticle Physics involving neutrino Experiments
+- 💞️ I’m looking to collaborate on Astroparticle Physics involving Neutrino Experiments
 - 📫 How to reach me fulhossain@ku.edu
 
 <!---
