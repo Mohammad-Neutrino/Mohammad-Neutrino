@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammad-Neutrino
 - 👀 I’m interested in C++ and Python coding
-- 💞️ I’m looking to collaborate on Astroparticle Physics involving Neutrino Astronomy Experiments
+- 💞️ I work on Astroparticle Physics Experiments such as ARA, RNO-G, RET etc.
 - 📫 How to reach me: fulhossain@ku.edu
 
 <!---
